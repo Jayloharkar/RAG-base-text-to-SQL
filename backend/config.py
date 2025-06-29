@@ -2,9 +2,9 @@
 DB_CONFIG = {
     "host": "localhost",
     "port": 5432,
-    "database": "supplement_test_db",
+    "database": "your_db",
     "user": "postgres",
-    "password": "Jay@12345"
+    "password": "db_password"
 }
  
 # LLM configuration
